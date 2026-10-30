@@ -25,7 +25,7 @@ Hoje transformo dados de operação em decisões: rendimento, consumo de utilida
 ![SAP](https://img.shields.io/badge/SAP%20PP%20%7C%20MM%20%7C%20CO-0FAAFF?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="100"/>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" height="40"/>
 
 ## Contato
