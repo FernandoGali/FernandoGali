@@ -17,7 +17,7 @@ Hoje transformo dados de operação em decisões: rendimento, consumo de utilida
 
 ## Ferramentas
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
