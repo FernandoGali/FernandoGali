@@ -1,6 +1,6 @@
 # Fernando Gali
 
-**Analista de Dados** | SQL · Python · Power BI | 
+**Analista de Dados** | SQL · Python · Power BI 
 
 Os dados guardam respostas. Eu faço as perguntas.
 
