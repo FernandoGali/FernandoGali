@@ -18,13 +18,13 @@ Hoje transformo dados de operação em decisões: rendimento, consumo de utilida
 ## Ferramentas
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Excel%20e%20Power%20Query-217346?style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/SAP%20PP%20%7C%20MM%20%7C%20CO-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="27"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="27"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="27"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" height="27"/>
+  <img src="https://img.shields.io/badge/Excel%20e%20Power%20Query-217346?style=for-the-badge" height="27"/>
+  <img src="https://img.shields.io/badge/SAP%20PP%20%7C%20MM%20%7C%20CO-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="27"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="27"/>
 </p>
 
 
