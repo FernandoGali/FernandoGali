@@ -32,4 +32,4 @@ Hoje transformo dados de operação em decisões: rendimento, consumo de utilida
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/fernando-gali/) · [Blog](https://fernando-gali.pages.dev) · fernando_lf@live.com
+[LinkedIn](https://www.linkedin.com/in/fernando-gali/) · [Blog](https://fernando-gali.pages.dev)
