@@ -12,6 +12,8 @@ Hoje transformo dados de operação em decisões: rendimento, consumo de utilida
 
 | Projeto | O que é | Ferramentas |
 |---|---|---|
+| [Gastos do governo federal com viagens](https://github.com/FernandoGali/estudos-dados/tree/main/extras/viagens-governo) | Análise de quase 2,9 milhões de viagens a serviço (2023 a 2026), com dados do Portal da Transparência e dashboard de cinco páginas | Python, pandas, Power BI |
+| [Tibia Boss Detector](https://github.com/FernandoGali/tibia-boss-detector) | Pipeline ETL que coleta todo dia dados públicos dos 90 mundos do Tibia, guarda em PostgreSQL e calcula em SQL a chance de cada criatura rara aparecer. [Site no ar](https://bossdetector.duckdns.org) | Python, PostgreSQL, SQL, FastAPI |
 | [Esmagadora Modelo](https://github.com/FernandoGali/portfolio-dados/tree/main/00-esmagadora-modelo) | Base de dados fictícia de uma unidade de esmagamento de soja: 5 anos de produção, paradas, laboratório, recebimento e expedição, com [modelo de dados](https://github.com/FernandoGali/portfolio-dados/blob/main/00-esmagadora-modelo/modelo_dados.md) e [ficha de KPIs](https://github.com/FernandoGali/portfolio-dados/blob/main/00-esmagadora-modelo/kpis.md) | Python, Excel |
 | [Estudos em dados](https://github.com/FernandoGali/estudos-dados) | Caderno de estudo: teoria, exercícios e análises aplicadas à indústria | Excel, SQL, Python |
 
